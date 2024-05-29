@@ -101,7 +101,7 @@ Handme is designed to create a safe, student-only marketplace by requiring users
 
 ### Onboarding
 
-- **Login/Get Started:** Option to login, sign up, or browse listings.
+- **Login/Get Started:** Option to log in, sign up, or browse listings.
 - **Sign up with Google/Email:** Collects user info and verifies email with OTP.
 - **Additional Info:** Collects username, college standing, and preferences.
 
@@ -114,13 +114,13 @@ Handme is designed to create a safe, student-only marketplace by requiring users
 - **Wishlist Carousel:** Shows saved listings.
 - **Seasonal Curations:** Listings based on seasonal popularity.
 - **Friend Connections:** Prompts to connect with friends on Handme.
-![home](https://res.cloudinary.com/db670bhmc/image/upload/v1716960261/lu419tr0fwx672k3alu8.png)
 
 ### Explore Page
 
 - **Search Bar:** Type-ahead search for listings.
 - **Category Panel:** Buttons for category-based listings.
 - **Fact Cards:** Random facts displayed.
+
 
 ### Listings Page
 
@@ -132,14 +132,14 @@ Handme is designed to create a safe, student-only marketplace by requiring users
 
 - **Product Details:** Title, tags, and save option.
 - **Image Slider:** Up to 6 images.
-- **Seller Profile:** Option to message and report seller.
+- **Seller Profile:** Option to message and report the seller.
 
 ### Posting Interface
 
 - **Camera Access:** Take pictures of listings.
 - **Landlord/Student:** Different interfaces for landlords and students.
 - **Tags and Categories:** Select appropriate tags and categories.
-- **Price and Negotiability:** Enter price and select if negotiable.
+- **Price and Negotiability:** Enter the price and select if negotiable.
 - **Confetti Animation:** Confirmation animation after posting.
 
 ### Messaging
@@ -160,6 +160,18 @@ Handme is designed to create a safe, student-only marketplace by requiring users
 - **Encryption:** Encrypt all passwords and secure data transmission.
 - **Privacy:** Ensure user communications are private and secure.
 - **Performance:** Optimize for smooth transitions and quick loading times.
+
+## Images
+
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960261/lu419tr0fwx672k3alu8.png)
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960261/aj0mxtdc3ipt2b1pgckm.png)
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/c4byd2pthyzbicbjhuqw.png)
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/tlby8we4ritdqklnoeom.png)
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/atoatz4vguvd1ivatzmc.png)
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/kkvpegydkedbl4ha65jy.png)
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/c4ztkjuf2qriphu9j6ik.png)
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/tr2iu1h3ljrz1xqwe92w.png)
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/p0nfpzxy6nxechbbywfa.png)
 
 ## App Store
 
