@@ -164,14 +164,14 @@ Handme is designed to create a safe, student-only marketplace by requiring users
 ## Images
 
 ![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960261/lu419tr0fwx672k3alu8.png)
-![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960261/aj0mxtdc3ipt2b1pgckm.png)
 ![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/c4byd2pthyzbicbjhuqw.png)
-![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/tlby8we4ritdqklnoeom.png)
-![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/atoatz4vguvd1ivatzmc.png)
 ![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/kkvpegydkedbl4ha65jy.png)
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/tlby8we4ritdqklnoeom.png)
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960261/aj0mxtdc3ipt2b1pgckm.png)
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/atoatz4vguvd1ivatzmc.png)
 ![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/c4ztkjuf2qriphu9j6ik.png)
-![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/tr2iu1h3ljrz1xqwe92w.png)
 ![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/p0nfpzxy6nxechbbywfa.png)
+![screens](https://res.cloudinary.com/db670bhmc/image/upload/v1716960259/tr2iu1h3ljrz1xqwe92w.png)
 
 ## App Store
 
