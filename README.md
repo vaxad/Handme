@@ -114,6 +114,7 @@ Handme is designed to create a safe, student-only marketplace by requiring users
 - **Wishlist Carousel:** Shows saved listings.
 - **Seasonal Curations:** Listings based on seasonal popularity.
 - **Friend Connections:** Prompts to connect with friends on Handme.
+![home](https://res.cloudinary.com/db670bhmc/image/upload/v1716960261/lu419tr0fwx672k3alu8.png)
 
 ### Explore Page
 
