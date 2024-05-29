@@ -24,9 +24,7 @@ Handme is a second-hand marketplace designed to provide a secure and student-exc
   - [Profile Page](#profile-page)
 - [Admin Dashboard](#admin-dashboard)
 - [Security Considerations](#security-considerations)
-- [Future Development](#future-development)
-- [Potential Revenue Models](#potential-revenue-models)
-- [License](#license)
+- [Images](#images)
 
 ## Project Overview
 
