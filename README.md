@@ -1,3 +1,4 @@
+3
 # Handme - Second-Hand Marketplace App
 
 Handme is a second-hand marketplace designed to provide a secure and student-exclusive platform for buying and selling used goods. Developed using React Native and Expo, Handme offers features such as end-to-end encrypted messaging, friend connections, making it a reliable and community-focused solution for students. _This project was developed for a client based in the USA. As all rights to the project are owned by the client, the source code is proprietary and cannot be made public._
